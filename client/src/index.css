@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* FORCE TEST STYLE */
+body {
+  background-color: black;
+  color: white;
+}
